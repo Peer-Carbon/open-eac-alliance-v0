@@ -276,6 +276,7 @@ The emission intensity data used in calculations shall originate from the source
 | Geography     | Emission intensity source                              |
 |---------------|--------------------------------------------------------|
 | Great Britain | [National Grid ESO's *carbonintensity.org.uk* API](https://www.carbonintensity.org.uk/) |
+| US | [EIA's Hourly Electric Grid Monitor](https://www.eia.gov/electricity/gridmonitor/) |
 | Global        | [ElectricityMaps API](https://www.electricitymaps.com/) |
 
 The source of the carbon intensity data shall be recorded as part of the digital asset generated.
